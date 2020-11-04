@@ -1,2 +1,2 @@
 # dailyprogrammer
-daily programming challenges for warming up my cranium 
+programming challenges for warming up my cranium 
